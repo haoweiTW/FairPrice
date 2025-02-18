@@ -1,0 +1,2 @@
+# FairPrice
+EURUSD-USDCHF-EURCHF
